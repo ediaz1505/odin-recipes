@@ -1,2 +1,1 @@
-# odin-recipes
-making a basic website is the goal of todays project.
+this is a recipe book :)
